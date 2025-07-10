@@ -81,7 +81,7 @@ protocol Subscriber {
 4. Publisher🙆🏼는 Subscriber🙋🏻가 요청한 만큼 N개의 값을 보낸다(`receive(_:)`)
 5. Publisher🙆🏼가 더 이상 값을 publish하지 않거나 에러가 발생해서 관계가 종료되면 Publisher🙆🏼가 `receive(completion:)`을 호출해 관계의 끝을 알린다.
 
-### Operator
+### [Operator](Operator_Combine)
 - Publisher가 방출한 값을 변환
 - Publisher 프로토콜을 conform
 	⇒ Subscriber에게 값을 방출하는 자체적인 Publisher로서 동작할 수 있음
@@ -188,7 +188,7 @@ private func subscribeValidatedPassword() {
 - [[Subscription]]
 - Subscriber
 - [[Built-in Subscribers]]
-- Operator
+- [Operator](Operator_Combine)
 - [[Cancellable&AnyCancellable]]
 - [[Subject]]
 
