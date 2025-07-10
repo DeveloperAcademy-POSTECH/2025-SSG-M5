@@ -1,6 +1,6 @@
 
 - [[Single Responsibility]]
 - [[Open Closed]]
-- L
-- I
+- [[Liskov Substitution]]
+- [[Interface Segregation]]
 - [[Dependency Injection]]
