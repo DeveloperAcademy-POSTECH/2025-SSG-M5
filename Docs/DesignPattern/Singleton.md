@@ -54,8 +54,7 @@ let notification = NotificationCenter.default
 ~~~
 이러한 시스템안에서도 싱글톤을 이용하고 있다고 한다.
 ## Keywords
-+ 디자인패턴
-+ 
++ [[DesignPattern]]
 
 ## References
 - Java 언어로 배우는 디자인 패턴 입문 - 유키 히로시 저

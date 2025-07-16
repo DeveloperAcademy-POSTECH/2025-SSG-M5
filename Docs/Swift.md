@@ -44,3 +44,18 @@ print(interestingNumbers["primes"]!)
 - [Apple 공식 Swift 문서](https://developer.apple.com/documentation/swift)
 - [Swift 오픈 소스 GitHub 저장소](https://github.com/apple/swift)
 - [Swift.org - Open Source Project](https://swift.org/)
+
+## Linked mentions
+[[Combine]]
+[[Concurrency]]
+[[DesignPattern]]
+[[Dispatch]]
+[[Extension]]
+[[Foundation]]
+[[Framework]]
+[[Grammar]]
+[[LifeCycle]]
+[[Memory]]
+[[Protocol]]
+[[SOLID]]
+[[SwiftUI]]

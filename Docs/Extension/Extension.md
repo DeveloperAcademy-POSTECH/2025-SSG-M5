@@ -194,6 +194,7 @@ print(user.id) // user:Taeni
 + OOP
 + Override
 + Inheritance
++ [[Extension]]
 
 ## References
 - https://bbiguduk.gitbook.io/swift/language-guide-1/extensions

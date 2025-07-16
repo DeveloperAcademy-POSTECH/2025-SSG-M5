@@ -48,6 +48,7 @@ struct AppleWatch: Callable, MusicPlayable { ... }
 
 ## Keywords
 - protocol composition`(&)`
+- [[SOLID]]
 
 ## References
 - 참고한 레퍼런스를 작성 (예 : Apple의 공식 문서)

@@ -43,6 +43,7 @@
 
 ## Keywords
 + 파생된 키워드들을 작성
++ [[SOLID]]
 
 ## References
 - https://www.youtube.com/watch?v=kF7rQmSRlq0

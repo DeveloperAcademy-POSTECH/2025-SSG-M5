@@ -60,6 +60,9 @@ class SignUpService {
 - Unit test, Mocking 필요한 경우
 	결국 Protocol의 외부의존성 격리라는 툴이 강력하기에 지속적인 테스트가 필요한 경우 데려갈만함
 
+## Keywords
+- [[SOLID]]
+
 ## References
 - https://inpa.tistory.com/entry/OOP-%F0%9F%92%A0-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%EC%84%A4%EA%B3%84%EC%9D%98-5%EA%B0%80%EC%A7%80-%EC%9B%90%EC%B9%99-SOLID#%EB%8B%A8%EC%9D%BC_%EC%B1%85%EC%9E%84_%EC%9B%90%EC%B9%99_-_srp_single_responsibility_principle
 

@@ -1,3 +1,9 @@
+---
+tags:
+  - swift
+  - Framework
+---
+
 제출일: 2025-06-04
 
 >[!question]
@@ -185,6 +191,8 @@ Subscriptions는 다양한 유형이 있으며, 이를 통해 다양한 시나�
 ### CloudKit을 내 앱에 적용하기
 노션 링크: https://kimhyeongi.notion.site/CloudKit-2072ce0304bd80bda138cc4176a0c077?source=copy_link 
 
+## Keywords
+[[Framework]]
 
 # Reference
 ---

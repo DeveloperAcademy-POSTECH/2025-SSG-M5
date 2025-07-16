@@ -52,6 +52,8 @@ class Penguin: Bird {
  그러나 잘못 overriding하는 2번 케이스는 잡아낼 방도가 없다. (runtime error?)
 --> 논리적 오류가 없는 protocol을 잘 선택하는 외에 방법은 없다
 
+## Keywords
+- [[SOLID]]
 
 ## References
 - 참고한 레퍼런스를 작성 (예 : Apple의 공식 문서)

@@ -131,7 +131,7 @@ Program ended with exit code: 0
 - UIKit
 - 디자인패턴
 - 위임
-- 
+- [[DesignPattern]]
 
 
 
